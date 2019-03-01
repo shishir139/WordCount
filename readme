@@ -1,0 +1,5 @@
+1) Save these files to a location
+2) On command prompt change the location to the directory where these files have been placed
+3) Write 
+python WordCount.py DemoText
+4) Program gets executed.
